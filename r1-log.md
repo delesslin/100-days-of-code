@@ -11,3 +11,6 @@ Also set up project files and updated github profile.
 ### R1D2
 Looked at React, Flux, and React Native with Matt. Discovered using a "wrapper" for p5.js
 https://github.com/NeroCor/react-p5-wrapper
+
+### R1D3
+Restructured data and fumbled with implementing keypress. Event doesn't seem to have a keyCode associated so I had to add "key" property to data.
