@@ -14,3 +14,8 @@ https://github.com/NeroCor/react-p5-wrapper
 
 ### R1D3
 Restructured data and fumbled with implementing keypress. Event doesn't seem to have a keyCode associated so I had to add "key" property to data.
+
+### R1D4
+Light day. I finally got the keyboard clicks to work.
+
+**Thinking Forward:** I want to watch a flux video and refactor my app to use it
