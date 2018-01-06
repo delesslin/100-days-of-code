@@ -19,3 +19,8 @@ Restructured data and fumbled with implementing keypress. Event doesn't seem to 
 Light day. I finally got the keyboard clicks to work.
 
 **Thinking Forward:** I want to watch a flux video and refactor my app to use it
+
+### R1D5
+Did some piddle work because I ran out of town: added shift, ctrl, backspace, and space
+
+**Thinking Forward:** I want to watch a flux video and refactor my app to use it
