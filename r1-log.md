@@ -24,3 +24,8 @@ Light day. I finally got the keyboard clicks to work.
 Did some piddle work because I ran out of town: added shift, ctrl, backspace, and space
 
 **Thinking Forward:** I want to watch a flux video and refactor my app to use it
+
+### R1D6
+I implemented flux!!! Or some janky version of it. It's such a convenient way to structure the app.
+
+**Thinking Forward:** Implement react and flux in catawbaDictionary
