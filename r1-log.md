@@ -29,3 +29,11 @@ Did some piddle work because I ran out of town: added shift, ctrl, backspace, an
 I implemented flux!!! Or some janky version of it. It's such a convenient way to structure the app.
 
 **Thinking Forward:** Implement react and flux in catawbaDictionary
+
+### R1D7
+Day late updating this log. I began implementing react/flux in the dictionary.
+
+### R1D8
+Added some styling and figured out that I will probably need yet another library to handle event listeners... *Anger*
+
+**Thinking Forward:** look for library
